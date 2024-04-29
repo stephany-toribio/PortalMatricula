@@ -1,0 +1,8 @@
+plotly
+numpy
+pandas
+matplotlib
+Pillow
+openpyxl
+geopandas
+networkx
