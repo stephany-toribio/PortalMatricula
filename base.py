@@ -47,7 +47,6 @@ def grafo_planEstudio():
                 stack.append(descendiente_nombre)
 
     pos = {}
-    vertical_spacing = 100
 
     for i, ciclo in enumerate(ciclos):
         cursos_ciclo = data[data["Ciclo"] == ciclo]["Código"].tolist()
